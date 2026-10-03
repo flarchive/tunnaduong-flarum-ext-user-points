@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of tunnaduong/flarum-ext-user-points.** Not for installation: use [Packagist](https://packagist.org/packages/tunnaduong/flarum-ext-user-points) or the [upstream repository](https://github.com/tunnaduong/flarum-ext-user-points).
 
-**0** versions archived · Latest: [`v0.1.6`](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.6) · License: `MIT` · Flarum: `^1.8`
+**7** versions archived · Latest: [`v0.1.6`](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.6) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2025-06-28 | `^1.0` | [Browse](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.0) |
+| `v0.1.1` | 2025-06-28 | `^1.0` | [Browse](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.1) |
+| `v0.1.2` | 2025-06-28 | `^1.0` | [Browse](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.2) |
+| `v0.1.3` | 2025-06-28 | `^1.0` | [Browse](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.3) |
+| `v0.1.4` | 2025-06-28 | `^1.0` | [Browse](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.4) |
+| `v0.1.5` | 2025-06-28 | `^1.0` | [Browse](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.5) |
+| `v0.1.6` | 2025-06-28 | `^1.8` | [Browse](https://github.com/flarchive/tunnaduong-flarum-ext-user-points/tree/archive/v0.1.6) |
 
 Catalog entry: [packages/tunnaduong-flarum-ext-user-points.json](https://github.com/flarchive/archive-index/blob/main/packages/tunnaduong-flarum-ext-user-points.json)
 
